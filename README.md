@@ -2,6 +2,7 @@
 - 👀 I'm interested in a lot of unsorted things
 - 🌱 I’m currently learning how to make whatsapp chatbots
 - 💞️ I love to collaborate on translation projects into spanish
+- ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
 
 ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
 <br>
