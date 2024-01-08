@@ -33,7 +33,7 @@
 
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/></a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublimetext" width="40" height="40"/></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="sublimetext" width="40" height="40"/></a>
   <a href="[https://postman.com](https://code.visualstudio.com/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
