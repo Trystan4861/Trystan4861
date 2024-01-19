@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trystan4861
 - 👀 I'm interested in a lot of unsorted things
-- 🌱 I’m currently learning how to make whatsapp chatbots
+- 🌱 I’m currently learning how to make whatsapp chatbots with [bot-whatsapp](https://bot-whatsapp.netlify.app/) and contributing to the project with my humble knowledge.
 - 💞️ I love to collaborate on translation projects into spanish
 - ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
 
