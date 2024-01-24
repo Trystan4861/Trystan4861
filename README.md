@@ -7,9 +7,9 @@
 
 ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=trystan4861&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=trystan4861&show_icons=true&locale=en&layout=compact&theme=radical)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=trystan4861&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=trystan4861&show_icons=true&locale=en&theme=radical&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">
