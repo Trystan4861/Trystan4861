@@ -40,10 +40,14 @@
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" alt="sublimetext" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <br />
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Trystan4861/Trystan4861/assets/29180676/ed353207-c999-4959-bdf6-362f4f4c6720">
+  <img src="https://github.com/Trystan4861/Trystan4861/assets/29180676/1df34727-39ae-430d-8679-931386990ee8" width="40" height="40">
+</picture>
+  </a>
   <a href="[https://vercel.com/](https://www.netlify.com/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/></a>
 </p>
-
 <!---
 Trystan4861/Trystan4861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
