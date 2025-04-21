@@ -3,7 +3,7 @@
 - 👀 I'm interested in a lot of unsorted things
 - 🌱 I’m currently learning how to make whatsapp chatbots with [bot-whatsapp](https://bot-whatsapp.netlify.app/) and contributing to the project with my humble knowledge.
 - 💞️ I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
-- 🛠️ I have recently worked as Administration and University Services Staff at technology area, computer service of [Universidad Internacional Isabel I de Castilla](https://www.ui1.es)
+- 🛠️ My last work was as Administration and University Services' Staff at technology area, computer service of [Universidad Internacional Isabel I de Castilla](https://www.ui1.es)
 - ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
 
 ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
