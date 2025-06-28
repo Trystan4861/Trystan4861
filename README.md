@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to make whatsapp chatbots with [bot-whatsapp](https://bot-whatsapp.netlify.app/) and contributing to the project with my humble knowledge.
 - 💞️ I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
 - 🛠️ I am currently involved in helping with several non-profit projects as well as applications for the educational community at the [University of Huelva](https://www.uhu.es), both as a developer and technical advisor.
-- 🚪My next work... Maybe at NTT Data?
+- 🚪My next work... Maybe at [NTT Data](https://www.nttdata.com/global/en/)?
 - ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
 
 ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
