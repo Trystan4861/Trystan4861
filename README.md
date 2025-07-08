@@ -13,6 +13,8 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=trystan4861&theme=radical&show_icons=true&hide_border=false&count_private=true&show=prs_merged&layout=compact)
 <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=trystan4861&theme=radical&hide_border=false)
+<br>
 <img src="https://wakatime.com/share/@Trystan4861/36ed917b-2eaa-4e7b-922a-eafbdf742813.svg" height="350" style="border: 1px solid white" />
 
 <h3 align="left">Languages and Tools:</h3>  
