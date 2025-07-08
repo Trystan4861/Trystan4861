@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning how to make whatsapp chatbots with [bot-whatsapp](https://bot-whatsapp.netlify.app/) and contributing to the project with my humble knowledge.
 - 💞️ I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
 - 🛠️ I am currently involved in helping with several non-profit projects as well as applications for the educational community at the [University of Huelva](https://www.uhu.es), both as a developer and technical advisor.
-- 🚪My next work... Maybe at [NTT Data](https://www.nttdata.com/global/en/)?
+- 🚀 My next work... [NTT Data](https://www.nttdata.com/global/en/) 🎊
 - ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
 
 ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=trystan4861&show_icons=true&locale=en&layout=compact&theme=radical)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=trystan4861&show_icons=true&locale=en&theme=radical&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=trystan4861&theme=radical&show_icons=true&hide_border=false&count_private=true&show=prs_merged&layout=compact)
 <br>
 <img src="https://wakatime.com/share/@Trystan4861/36ed917b-2eaa-4e7b-922a-eafbdf742813.svg" height="350" style="border: 1px solid white" />
 
