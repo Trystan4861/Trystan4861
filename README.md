@@ -27,6 +27,12 @@
   <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://4b-systems.com/wp-content/uploads/2023/02/Projekt-bez-tytulu-2.png">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
+    </picture>
+  </a>
   <br />
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
@@ -67,7 +73,7 @@
       <img src="https://github.com/Trystan4861/Trystan4861/assets/29180676/1df34727-39ae-430d-8679-931386990ee8" width="40" height="40" alt="vercel">
     </picture>
   </a>
-  <a href="[https://vercel.com/](https://www.netlify.com/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/></a>
 </p>
 <!---
 Trystan4861/Trystan4861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
