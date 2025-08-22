@@ -33,6 +33,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
     </picture>
   </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/jquery_dark.svg">
+    <img src="https://svgl.app/library/jquery.svg" alt="jQuery" width="40" height="40"/>
+    </picture>
+  </a>
   <br />
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
