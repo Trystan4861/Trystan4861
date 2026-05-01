@@ -2,11 +2,11 @@
 - 👋 Hi, I’m @Trystan4861
 - 👀 I'm interested in a lot of unsorted things
 - 🌱 I’m currently learning how to make whatsapp chatbots with [bot-whatsapp](https://bot-whatsapp.netlify.app/) and contributing to the project with my humble knowledge.
-- 💞️ I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
-- 🛠️ I am currently involved in helping with several non-profit projects as well as applications for the educational community at the [University of Huelva](https://www.uhu.es), both as a developer and technical advisor.
-- 🚀 My next work... [NTT Data](https://www.nttdata.com/global/en/) 🎊
+- 🛠️ I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
+- 💞️ I love participating by helping in various non-profit projects, as well as enjoying creating applications for the educational community of the [University of Huelva](https://www.uhu.es) and the [Isabel I University of Castile](https://ui1.es), both as a developer and as a technical advisor.
+- 🚀 I'm actually working at... [NTT Data](https://www.nttdata.com/global/en/) 🎊
 - ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
-
+<br>
 ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=trystan4861&show_icons=true&locale=en&layout=compact&theme=radical)
@@ -19,21 +19,12 @@
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp"  width="40" height="40"/></a>
-  <a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://learn.microsoft.com/es-es/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C Sharp"  width="40" height="40"/></a><a href="https://php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://symfony.com/" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://4b-systems.com/wp-content/uploads/2023/02/Projekt-bez-tytulu-2.png">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
     </picture>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/jquery_dark.svg">
     <img src="https://svgl.app/library/jquery.svg" alt="jQuery" width="40" height="40"/>
