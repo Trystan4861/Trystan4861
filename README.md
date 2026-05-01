@@ -1,18 +1,14 @@
-# ꋖꌅꐔꈜꋖꁲꃔꎨꈔꋻꀤ
+# ꋖꌅꐔꈜꋖꁲꃔꎨꈔꋻꀤ ![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
 - 👋 Hi, I’m @Trystan4861
 - 👀 I'm interested in a lot of unsorted things
-- 🌱 I’m currently learning how to make whatsapp chatbots with [bot-whatsapp](https://bot-whatsapp.netlify.app/) and contributing to the project with my humble knowledge.
-- 🛠️ I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
+- 🤖  I'm immersed in the new wave of AI development.
+- 🤝 I have collaborated in many translation projects from English to Spanish, tell me if you want my help for something like this for your projects.
 - 💞️ I love participating by helping in various non-profit projects, as well as enjoying creating applications for the educational community of the [University of Huelva](https://www.uhu.es) and the [Isabel I University of Castile](https://ui1.es), both as a developer and as a technical advisor.
-- 🚀 I'm actually working at... [NTT Data](https://www.nttdata.com/global/en/) 🎊
+- 🚀 I'm actually working at... [NTT Data](https://www.nttdata.com/global/en/)
 - ☕ If you like you can [buy me a coffee](https://buymeacoffee.com/trystan4861)
-<br>
-
-![](https://komarev.com/ghpvc/?username=trystan4861&label=PROFILE+VIEWS)
-<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trystan4861&theme=radical&hide_border=false)
-<br>
+
 <img src="https://wakatime.com/share/@Trystan4861/36ed917b-2eaa-4e7b-922a-eafbdf742813.svg" height="350" style="border: 1px solid white" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,44 +28,29 @@
     <td>
       <a href="https://symfony.com/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://symfony.com/logos/symfony_black_03.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://sensiolabs.com/f/f81b35a0d50c3f36/750x750-symfony-logo-white.webp">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="40">
         </picture>
       </a>
     </td>
     <td>
-      <a href="https://jquery.com/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/jquery_dark.svg">
-          <img src="https://svgl.app/library/jquery.svg" width="40">
-        </picture>
-      </a>
+      <a href="https://jquery.com/"><img src="https://www.svgrepo.com/show/452242/jquery.svg" width="40"></a>
     </td>
     <td>
-      <a href="https://getbootstrap.com/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40">
-        </picture>
-      </a>
+      <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"></a>
     </td>
     <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"></a></td>
     <td><a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"></a></td>
     <td>
       <a href="https://www.mysql.com/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://adware-technologies.s3.ap-southeast-1.amazonaws.com/uploads/technology/thumbnail/45/mysql-white-icon.png">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40">
         </picture>
       </a>
     </td>
     <td>
-      <a href="https://www.mongodb.com/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40">
-        </picture>
-      </a>
+      <a href="https://www.mongodb.com/"><img src="https://images.icon-icons.com/2415/PNG/512/mongodb_plain_logo_icon_146422.png" width="40"></a>
     </td>
     <td><a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"></a></td>
   </tr>
@@ -83,17 +64,12 @@
       </a>
     </td>
     <td>
-      <a href="https://vuejs.org/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40">
-        </picture>
-      </a>
+      <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"></a>
     </td>
     <td>
       <a href="https://unity.com/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://media.sketchfab.com/models/2afd04b26ca64c6b8392f75e217ffdb9/thumbnails/b8b7fd406e624b27bcf5d22af1857ac0/6fc6917029464e18aef80d4f82f479a4.jpeg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://images.seeklogo.com/logo-png/62/1/unity-icon-logo-png_seeklogo-622762.png">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40">
         </picture>
       </a>
@@ -104,11 +80,23 @@
     <td><a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" width="40"></a></td>
     <td><a href="https://www.sublimetext.com/"><img src="https://www.svgrepo.com/show/354408/sublimetext-icon.svg" width="40"></a></td>
   </tr>
-
   <tr>
     <td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"></a></td>
-    <td><a href="https://vercel.com/"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40"></a></td>
+    <td>
+      <a href="https://vercel.com/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vercel.png">
+          <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="40">
+        </picture>
+      </a>
+    </td>
     <td><a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40"></a></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a017686a-4046-4a1b-b3eb-cd28d20c67a0">
+        <img src="https://www.svgrepo.com/show/335225/ellipsis.svg" width="40">
+      </picture>
+    </td>
   </tr>
 </table>
 <!---
